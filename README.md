@@ -42,9 +42,24 @@
 | **Ghost**        | ![Ghost](https://github.com/user-attachments/assets/db7f8abc-349e-4f57-89af-2c5fb03a0d29) |
 | **Cyclops**      | ![Cyclops](https://github.com/user-attachments/assets/a4564330-58b9-46f2-9c0b-e50599494ad9) |
 
-_Replace the placeholder links above with your actual image URLs._
 
-All sprites are animated using 2–4 frame sequences for idle and movement states. You can extend this further with additional visual effects.
+All sprites are animated using 2–4 frame sequences for idle and movement states.
+
+---
+
+## 📷 In-Game Screenshots
+
+### Menu
+
+![Menu](https://github.com/user-attachments/assets/b9f5e9a5-75e9-4052-a5e1-78e299eec409)
+
+### Game
+
+![Game](https://github.com/user-attachments/assets/814cbb68-9c33-40e8-9828-c0f40ee2f064)
+
+### End
+
+![End](https://github.com/user-attachments/assets/c08062c2-42ab-427b-9a8b-dc6971648202)
 
 ---
 
