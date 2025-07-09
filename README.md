@@ -7,6 +7,7 @@
 - Move the mage using **WASD** or **Arrow Keys**
 - Click to shoot fireballs at incoming enemies
 - Face off against two enemy types: **Ghosts** and **Cyclops**
+- Ghosts have 1 HP / Cyclops have 2 HP
 - Lose health when touched by enemies
 - Earn points by eliminating them
 - If your health drops to 0 → Game Over
